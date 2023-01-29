@@ -1,3 +1,3 @@
 region       = "nyc3"
-do_token     = "dop_v1_415cff3fa72b8652b74099ed0e4b58ea66f452cf65db15323753c44a9c23d9e1"
+do_token     = "dop_v1_6391dbd7c23a191b539c7695c174c5bafa5531de6071621d679912e170150a19"
 ssh_key_name = "Jornada"
